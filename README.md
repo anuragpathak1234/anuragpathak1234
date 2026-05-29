@@ -59,3 +59,11 @@ Every expert was once a beginner.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
 
 ![](https://komarev.com/ghpvc/?username=anuragpathak1234)
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=36BCF7&center=true&vCenter=true&width=600&lines=Java+Developer;DSA+Learner;Future+Software+Engineer)](https://git.io/typing-svg)
+
+
+ANURAG PATHAK
+JAVA • DSA • OPEN SOURCE
