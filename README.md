@@ -49,3 +49,13 @@ Every expert was once a beginner.
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/anuragpathak1234/anuragpathak1234/blob/output/github-contribution-grid-snake.svg)
+
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=anuragpathak1234&theme=tokyonight)
+
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=anuragpathak1234&theme=tokyo-night)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+
+![](https://komarev.com/ghpvc/?username=anuragpathak1234)
