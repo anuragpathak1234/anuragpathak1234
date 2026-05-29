@@ -23,3 +23,16 @@ Starting my DSA journey with Java by Kunal Kushwaha.
 ⚡ Fun Fact:
 Every expert was once a beginner.
 
+
+
+## 📊 GitHub Stats
+
+![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuragpathak1234&show_icons=true&theme=tokyonight)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=anuragpathak1234&theme=tokyonight)
+
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragpathak1234&layout=compact&theme=tokyonight)
