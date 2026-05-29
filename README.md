@@ -36,3 +36,6 @@ Every expert was once a beginner.
 ## 💻 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragpathak1234&layout=compact&theme=tokyonight)
+
+
+![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuragpathak1234&show_icons=true&theme=tokyonight&cache_seconds=1800)
